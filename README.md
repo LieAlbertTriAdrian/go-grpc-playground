@@ -31,4 +31,6 @@ go run main.go
 ```
 
 ## TODO:
-* WIP
+* Add tracer
+* Add streaming example
+* Add contract generation
