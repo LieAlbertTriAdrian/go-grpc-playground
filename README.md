@@ -34,3 +34,4 @@ go run main.go
 * Add tracer
 * Add streaming example
 * Add contract generation
+* Add go linter
